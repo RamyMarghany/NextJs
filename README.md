@@ -3,7 +3,8 @@
 Learn and try the basic features of NextJs Library
 
 
-## This application build by this command `yarn add next react react-dom`
+# This application build by this command
+ `yarn add next react react-dom`
 
 
 ## NextJS Features:
