@@ -13,7 +13,7 @@ Learn and try the basic features of NextJs Library
 - Auto routing by restructuring the folders and files.
 - Auto Lazy loading and code spliting.
 - Using `Link` and `Router` from next/link and next/router.
-- Handle all wrong router paths (404) by creating _error.js
+- Handle all wrong router paths (404) by creating `_error.js`.
 - Passing props by using `getInitialProps` and access it through its context.
 - Style components by using `style` tag, Ex:
   <style jsx>{`
